@@ -5,6 +5,9 @@ Site created for AEM: Edge Delivery Services Enablement Training
 - Preview: https://main--mysite--swatkat17.hlx.page/
 - Live: https://main--mysite--swatkat17.hlx.page/
 
+**##To Clone the Repo:**
+git clone https://github.com/swatkat17/mysite
+
 ## Installation
 
 ```sh

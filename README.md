@@ -1,9 +1,9 @@
 # Your Project's Title...
-Your project's description...
+Site created for AEM: Edge Delivery Services Enablement Training
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--mysite--swatkat17.hlx.page/
+- Live: https://main--mysite--swatkat17.hlx.page/
 
 ## Installation
 

@@ -18,6 +18,8 @@
 
 .cards .cards-card-image {
   line-height: 0;
+  background-color: white;
+  border: black;
 }
 
 .cards .cards-card-body > *:first-child {

@@ -89,7 +89,9 @@ h4, h5, h6 {
 h1 {
   color: red;
 }
-
+h2:hover {
+  color: red;
+}
 h3 {
   color: green;
   font-style: italic;

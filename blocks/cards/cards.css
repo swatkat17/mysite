@@ -19,7 +19,7 @@
 .cards .cards-card-image {
   line-height: 0;
   background-color: white;
-  border-color: black;
+  border: 1px solid black;
 }
 
 .cards .cards-card-body > *:first-child {

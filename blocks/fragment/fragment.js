@@ -43,7 +43,7 @@ export async function loadFragment(path) {
 
 export default async function decorate(block) {
   const link = block.querySelector('a');
-  const path = https://main--mysite--swatkat17.hlx.page/fragment-include.getAttribute('href') : block.textContent.trim();
+  const path = fragment.getAttribute('href') : block.textContent.trim();
   const fragment = await loadFragment(path);
   if (fragment) {
     const fragmentSection = fragment.querySelector(':scope .section');
